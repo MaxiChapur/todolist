@@ -1,0 +1,26 @@
+#input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#input-form {
+  margin-bottom: 3%;
+  margin-top: 3%;
+  border: 0px;
+  height: 3rem;
+  width: 80%;
+  font-size: 20px;
+  text-align: center;
+}
+
+.listTag {
+  font-size: 12px;
+  background-color: beige;
+  border-radius: 25px;
+}
+
+#listOfTask {
+  background-color: beige;
+  border-radius: 25%;
+}

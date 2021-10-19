@@ -1,0 +1,26 @@
+.Card {
+  background-color: white;
+  border-radius: 25px;
+  margin-top: 3%;
+}
+
+.completeButton-Card {
+  background-color: white;
+  border: 0px white;
+  border-bottom-left-radius: 25px;
+  cursor: pointer;
+}
+
+.completeButton-Card:hover {
+  background-color: green;
+}
+
+.RemoveButton-Card {
+  background-color: white;
+  border-bottom-right-radius: 25px;
+  cursor: pointer;
+}
+
+.RemoveButton-Card:hover {
+  background-color: red;
+}
